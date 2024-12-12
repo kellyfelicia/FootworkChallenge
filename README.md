@@ -15,3 +15,5 @@ In this capstone project, the machine learning model purpose is to recommend cha
 - SkLearn
 
 # Results
+![Model Accuracy](https://github.com/kellyfelicia/FootworkChallenge/blob/master/results/Screenshot%202024-12-12%20104609.png)
+![Test Accuracy](https://github.com/kellyfelicia/FootworkChallenge/blob/master/results/Screenshot%202024-12-12%20104623.png)
