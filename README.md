@@ -21,4 +21,8 @@ In this capstone project, the machine learning model purpose is to recommend cha
 ![Test Accuracy](https://github.com/kellyfelicia/FootworkChallenge/blob/master/results/Screenshot%202024-12-13%20115047.png)
 
 # Contributor
-Kelly Felicia Riandy - M204B4KX2157
+
+| ID           | Name                    | Path                    | University                 |
+| ------------ | ----------------------- | ----------------------- | -------------------------- |
+| **M204B4KX2157** | Kelly Felicia Riandy    | Machine Learning (ML)   | Universitas Esa Unggul     |
+| **M315B4KY1313** | Fadhel Ikhsan Munandar  | Machine Learning (ML)   | Universitas Sriwijaya      |
