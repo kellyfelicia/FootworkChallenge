@@ -18,7 +18,7 @@ In this capstone project, the machine learning model purpose is to recommend cha
 ## Model Accuracy
 ![Model Accuracy](https://github.com/kellyfelicia/FootworkChallenge/blob/master/results/Screenshot%202024-12-13%20115040.png)
 ## Test Accuracy
-![Test Accuracy](https://github.com/kellyfelicia/FootworkChallenge/blob/master/results/Screenshot%202024-12-12%20104623.png)
+![Test Accuracy](https://github.com/kellyfelicia/FootworkChallenge/blob/master/results/Screenshot%202024-12-13%20115047.png)
 
 # Contributor
 Kelly Felicia Riandy - M204B4KX2157
