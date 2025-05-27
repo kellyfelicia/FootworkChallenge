@@ -25,4 +25,3 @@ In this capstone project, the machine learning model purpose is to recommend cha
 | ID           | Name                    | Path                    | University                 |
 | ------------ | ----------------------- | ----------------------- | -------------------------- |
 | **M204B4KX2157** | Kelly Felicia Riandy    | Machine Learning (ML)   | Universitas Esa Unggul     |
-| **M315B4KY1313** | Fadhel Ikhsan Munandar  | Machine Learning (ML)   | Universitas Sriwijaya      |
